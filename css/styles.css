@@ -7,3 +7,15 @@ body {
   background-color: rgb(66, 31, 31);
   color: aliceblue;
 }
+
+#minor {
+  display: none;
+}
+
+#ofAge {
+  display: none;
+}
+
+#warning {
+  display: none;
+}
